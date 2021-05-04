@@ -17,3 +17,7 @@
 /yarn-error.log
 
 .byebug_history
+node_modules/
+/tmp
+bundle.js
+bundle.js.map
